@@ -1,0 +1,19 @@
+
+h1{
+color: rgb(63, 108, 231);background-color: rgba(216, 160, 218, 0.432);border-radius: 5px;
+width: 30%; 
+text-align:center
+}
+
+.all{
+height: 220px;
+width: 90%; 
+background-color: rgba(82, 21, 21, 0.354);
+font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+font-size: medium;
+line-height: normal;
+border-style:double; 100px; border-radius: 10px;
+margin: auto; padding: 10px;
+
+}
+
